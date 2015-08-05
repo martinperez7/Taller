@@ -11,7 +11,7 @@ package javaapplication8;
  */
 public class JavaApplication8 {
 
-    /** bn
+    /** bnj
      * @param args the command line arguments
      */
     public static void main(String[] args) {
